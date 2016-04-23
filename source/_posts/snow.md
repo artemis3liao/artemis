@@ -1,5 +1,5 @@
 ---
-title:    心中的美-雪
+title:     心中的美-雪
 date: 2016-10-20 20:30:03
 tags: 感悟
 categories:

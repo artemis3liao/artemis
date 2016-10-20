@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Angus博客
+title: angus写给Artemis博客
 subtitle:
 description: 细心生活 反思总结
-author: Angus Gao
+author: Artemis Liao
 language: zh-CN
 timezone:
 
@@ -69,5 +69,5 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:angus3gao/angus3gao.github.io.git
+  repo: https://github.com/artemis3liao/artemis3liao.github.io.git
   branch: master

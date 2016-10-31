@@ -1,7 +1,7 @@
 ---
 title:    Ice Tea
 date: 2016-10-12 20:59:15
-tags:
+tags: 味道
 categories:
 description: 爱喝冰红茶的冰茶妹
 ---
@@ -9,6 +9,8 @@ description: 爱喝冰红茶的冰茶妹
 ![iecTem](/images/iceTea.jpg)
 
 > 喜欢喝冰红茶
+
+<!--more-->
 
 那天和她吃饭时，她说她喜欢喝冰过的冰红茶，说这样解渴，特别爽。
 喝着特别爽我是同意的，解渴嘛！是真的很解渴的。

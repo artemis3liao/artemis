@@ -1,14 +1,14 @@
 ---
 title: 生日快乐-前篇
 date: 2016-12-05 20:02:04
-tags: 阿朱
+tags: 阿珠
 categories:
 description:
 ---
 
 ![birthday](/images/birthday.jpg)
 
-阿朱，过两天就是你生日了。
+阿珠，过两天就是你生日了。
 提前也预祝你生日快乐。
 开心幸福每一天。
 
